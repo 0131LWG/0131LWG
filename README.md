@@ -93,7 +93,6 @@ Welcome, You are my [Visitor Count](https://profile-counter.glitch.me/all-smile/
 
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=0131LWG" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=0131LWG" /> </div>
 <!--
 <div align="center">
   <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
