@@ -19,21 +19,21 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUAN_Fly&show_icons=true&theme=radical) -->
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)]()
-  [Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-  [Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
-  [Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
-  [NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
+  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)]()
+  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
+  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)]()
+  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)]()
 
 - 💻 I work using:
-  [VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  [Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)
-  [GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
+  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)]()
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
 
 - ⚙️ I also use and work:
-  [HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  [CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)]()
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)]()
 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning:  
  [![Nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)]()
 
 
