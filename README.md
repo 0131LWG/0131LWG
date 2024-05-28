@@ -41,9 +41,6 @@ c
 - 🌱 I’m currently learning
  [![Nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)]()
 
-
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://github.com/0131LWG) visitor, Thank You!🎉🎉
-![](http://antzuhl.cn:4000/get/@0131LWG.readme)
 <!--
 <div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=0131LWG&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 -->
