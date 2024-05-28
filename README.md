@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 💬 微信：LWG_1107
 - 📫 Email: guan1024z@gmail.com
 
+![overview](https://cdn.0131LWG.art/gh/stats@output/generated/overview.svg)
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUAN_Fly&show_icons=true&theme=radical) -->
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)]()
